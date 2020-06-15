@@ -1,0 +1,62 @@
+body{
+    /* background-image: url("../images/edu3.jpg"); */
+    /* background-repeat: no-repeat; */
+    background-position: 100%;
+    z-index: inherit;
+    /* text-align: center; */
+}
+
+h1, h2, h3, h4, h5 {
+    /* background: rgb(224, 204, 207); */
+    text-align: center;
+}
+
+.display-1{
+color: black;
+text-transform: bold; 
+background-color: white;
+}
+
+.primary{
+    width: 80%;
+    height: 80px;
+    border: 1px solid red;
+    margin: 0px auto;
+}
+
+.primary .pri1{
+    display: inline;
+    background: red;
+    /* width: 20%;
+    height: 80px;
+    border: 1px dashed blue; */
+
+}
+.primary .pri2{
+    display: inline-block;
+    /* width: 20%;
+    height: 80px;
+    padding: 1px solid blue; */
+}
+.primary .pri3{
+    display: inline-block;
+    /* width: 20%;
+    height: 80px;
+    padding: 1px solid blue; */
+}
+.primary .pri4{
+    display: inline-block;
+    /* width: 20%;
+    height: 80px;
+    padding: 1px solid blue; */
+}
+.primary .pri5{
+    display: inline-block;
+    /* width: 20%;
+    height: 80px;
+    padding: 2px solid blue; */
+}
+
+#start{
+    content: center;
+}
